@@ -1,0 +1,13 @@
+name = "Space VS Time"
+author = "FirstMegaGame4"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "990bb40ea4259889c4438f55a7bc1334bd8078bad6529c9436fc04d66f41010f"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

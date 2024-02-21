@@ -1,0 +1,13 @@
+name = "Redstone engineering"
+filename = "Redstone engineering-forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d345bd9c39891876a54f45b972f7eac1c8852d40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5071511
+project-id = 906639

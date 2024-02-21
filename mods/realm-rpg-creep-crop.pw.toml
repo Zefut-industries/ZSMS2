@@ -1,0 +1,13 @@
+name = "Realm RPG: Creep & Crop"
+filename = "realmrpg_creep_and_crop_1.0.2_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0c05de7f69024213b5895ec4e0835cf03046d28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4846520
+project-id = 928427

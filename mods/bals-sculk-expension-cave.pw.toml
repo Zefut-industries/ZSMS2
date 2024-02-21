@@ -1,0 +1,13 @@
+name = "Bal's Sculk Expension Cave+"
+filename = "[FORGE 1.20.1] Sculk Expension Cave+ [1.2.0] Sculk Trader Update.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e2bb9849337af5a93cf9997ea255c8ff3e4685c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5064785
+project-id = 895322

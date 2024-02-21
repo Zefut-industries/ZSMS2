@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamiclights-1.20.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "029adb930be70d6850c22975493cebaedd193cc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721525
+project-id = 227874

@@ -1,0 +1,13 @@
+name = "Regions Unexplored (forge/fabric)"
+filename = "RegionsUnexploredForge-0.5.3.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31058d6579624e9e7d39db2d5cc78297e87f2647"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5012047
+project-id = 659110

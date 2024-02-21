@@ -1,0 +1,13 @@
+name = "Everything and Anything"
+filename = "everything_and_anything-1.20.1-0.6.0-The_Legend_of_The_Portals.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7898338520ad945a44aed8339cb5e0966357dd70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4950493
+project-id = 700409

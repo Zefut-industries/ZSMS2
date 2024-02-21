@@ -1,0 +1,13 @@
+name = "UnsettlingCraft"
+filename = "UnsettlingCraft-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "634b136fc76201b71a4d1d054fe9affd3314d288"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5110963
+project-id = 975141

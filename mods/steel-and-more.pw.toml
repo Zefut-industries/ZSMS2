@@ -1,0 +1,13 @@
+name = "Steel and More"
+filename = "Steel and More V2.0.0 MC1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5e5b6ac94942a2b73e2f3831e44d9c2efd2a207"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5113191
+project-id = 689412
