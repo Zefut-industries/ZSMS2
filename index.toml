@@ -1,34 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/ZSMS2.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "2ab1d1986a550e7198c9f35194d8f9fa284e18cb38c52d0c014a572a9d67adf8"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "60d76cc86545b8d0e824dbed75cf0dcdebe578639bf65ad68be888955d849877"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "260a5a8946c32c5b0ba4e7a92cf1be04aa79841de2f5d306445a103dda054e8e"
-
-[[files]]
-file = "LICENSE"
-hash = "cc65f3c906fdfc86131ce36941e5b3a475e76bf838411615df98a0ffe3e38b91"
-
-[[files]]
-file = "invoker.bat"
-hash = "9180eaec3c9e3e574eb027284347174827191b44e8b3670ebae40804f527bbab"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "6ab6c4e2f32b89e2b4451becbc5950355164fdd471f4c93d8e62c15e15719020"
 metafile = true
