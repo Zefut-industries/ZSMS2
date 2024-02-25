@@ -1,13 +1,13 @@
 name = "Better Update"
-filename = "betterupdate-1.20.1.1.0.3.jar"
+filename = "betterupdate-1.20.1.1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "899934c2db71171136988a4167bd9f9576186b4f"
+hash = "46ff47311f1525df9173ed310dddc0cf0482a366"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5110303
+file-id = 5112837
 project-id = 971763
